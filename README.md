@@ -62,7 +62,7 @@
 
 ## Deploy On Heroku
 
-[Deploy on Heroku](]https://heroku.com/deploy)
+[Deploy on Heroku](https://heroku.com/deploy)
 
 ---
 
